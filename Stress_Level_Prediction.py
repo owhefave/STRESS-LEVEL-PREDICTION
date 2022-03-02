@@ -13,8 +13,7 @@ import numpy as np
 # In[42]:
 
 
-import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+
 
 
 #                                     READING THE DATASET AND GETTING TO KNOW THE DATASET
