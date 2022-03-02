@@ -5,9 +5,6 @@
 
 # In[41]:
 
-pip install pandas
-pip install numpy
-pip install sklearn
 
 import pandas as pd
 import numpy as np
